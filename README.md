@@ -1,17 +1,18 @@
-# Z-Image Turbo UINT4
+# Ultra Fast Image Generation for Mac Silicon (Z-Image)
 
-Fast image generation on Apple Silicon Macs using the quantized Z-Image Turbo model.
+6B parameter AI image generation that actually runs fast on your Mac. No cloud. No GPU rental.
 
 ## Features
 
-- **Tiny Model Size**: Only 3.5GB (quantized from 24GB)
-- **Fast Inference**: ~14-31 seconds per image depending on resolution
-- **Low Memory**: ~15.5GB RAM usage
+- **Ultra Fast**: 14 seconds for 512x512, 31 seconds for 768x768
+- **Tiny Model**: Only 3.5GB (4-bit quantized from 24GB)
+- **Runs Locally**: No API keys, no cloud costs
 - **Gradio UI**: Simple web interface included
+- **CUDA Support**: Experimental support for NVIDIA GPUs
 
 ## Benchmarks
 
-Tested on **Mac M2 Max**:
+Tested on **Mac M2 Max (32GB)**:
 
 | Resolution | Steps | Time | Speed |
 |------------|-------|------|-------|
@@ -20,18 +21,18 @@ Tested on **Mac M2 Max**:
 
 **RAM Usage**: ~15.48 GB
 
-**Recommended settings**: 768x768 @ 7-8 steps for best quality/speed balance.
+**Recommended**: 768x768 @ 7-8 steps for best quality/speed balance.
 
 ## Model
 
-Uses [Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) - a 4-bit quantized version of Z-Image Turbo.
+Uses [Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) - a 4-bit quantized version of Alibaba's [Z-Image Turbo](https://github.com/Tongyi-MAI/Z-Image) (6B parameter diffusion transformer).
 
 ## Installation
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/zimage-turbo-uint4.git
-cd zimage-turbo-uint4
+git clone https://github.com/newideas99/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image.git
+cd Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image
 
 # Create virtual environment
 python -m venv venv
