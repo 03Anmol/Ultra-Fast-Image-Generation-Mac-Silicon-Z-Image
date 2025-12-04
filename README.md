@@ -34,6 +34,13 @@
 | 512x512 | 7 | **74s** | 10.6s/step |
 | 768x768 | 7 | **2.5 min** | 21.4s/step |
 
+### Mac M4 (16GB)
+
+| Resolution | Steps | Time | Speed |
+|------------|-------|------|-------|
+| 512x512 | 7 | **59s** | 8.44s/step |
+| 768x768 | 7 | **1.9 min** | 15.96s/step |
+
 **RAM Usage**: ~15.5 GB
 
 **Recommended**: 768x768 @ 7-8 steps for best quality/speed balance.
